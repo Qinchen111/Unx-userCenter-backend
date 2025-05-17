@@ -1,6 +1,9 @@
 ## 项目简介
+一个企业中最常用的系统 —— `用户中心` ，就是一个简单的 “用户管理系统” ，实现了用户注册、登录、查询等基础功能。
+![image](https://github.com/user-attachments/assets/69ece797-498f-45f0-a07e-164d92456025)
 
-一个企业中最最最常用的系统 —— `用户中心` ，说白了，就是一个简单的 “用户管理系统” ，实现了用户注册、登录、查询等基础功能。如图：
+![image](https://github.com/user-attachments/assets/fda79b3e-8a84-4b08-ac59-3d7043a36bff)
+
 
 ## 技术选型
 
